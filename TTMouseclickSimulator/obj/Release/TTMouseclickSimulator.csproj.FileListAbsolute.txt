@@ -1,0 +1,27 @@
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\TTMouseclickSimulator.csprojResolveAssemblyReference.cache
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\MainWindow.g.cs
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\App.g.cs
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\TTMouseclickSimulator_MarkupCompile.cache
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\TTMouseclickSimulator_MarkupCompile.lref
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Sample Actions.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Automatic Fishing - Punchline Place.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Automatic Fishing - Lighthouse Lane.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Automatic Fishing - Elm Street.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Automatic Fishing - Walrus Way.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Automatic Fishing - Lullaby Lane.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 1 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 2 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 3 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 4 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 5 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 6 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 7 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Gardening\Gardening - 8 Jellybean Combinations.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\SampleProjects\Automatic Fishing - Tenor Terrace.xml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\TTMouseclickSimulator.exe.config
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\bin\Release\TTMouseclickSimulator.exe
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\MainWindow.baml
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\TTMouseclickSimulator.g.resources
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\TTMouseclickSimulator.Properties.Resources.resources
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\TTMouseclickSimulator.csproj.GenerateResource.Cache
+C:\Users\Ashlyn\Desktop\MouseClickSimulator-master\TTMouseclickSimulator\obj\Release\TTMouseclickSimulator.exe

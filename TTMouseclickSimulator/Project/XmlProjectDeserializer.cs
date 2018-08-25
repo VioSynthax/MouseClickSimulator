@@ -6,12 +6,12 @@ using System.Xml.Linq;
 
 using TTMouseclickSimulator.Core;
 using TTMouseclickSimulator.Core.Actions;
-using TTMouseclickSimulator.Core.ToontownRewritten.Actions;
-using TTMouseclickSimulator.Core.ToontownRewritten.Actions.DoodleInteraction;
-using TTMouseclickSimulator.Core.ToontownRewritten.Actions.Fishing;
-using TTMouseclickSimulator.Core.ToontownRewritten.Actions.Gardening;
-using TTMouseclickSimulator.Core.ToontownRewritten.Actions.Keyboard;
-using TTMouseclickSimulator.Core.ToontownRewritten.Actions.Speedchat;
+using TTMouseclickSimulator.Core.ToontownCorporateClash.Actions;
+using TTMouseclickSimulator.Core.ToontownCorporateClash.Actions.DoodleInteraction;
+using TTMouseclickSimulator.Core.ToontownCorporateClash.Actions.Fishing;
+using TTMouseclickSimulator.Core.ToontownCorporateClash.Actions.Gardening;
+using TTMouseclickSimulator.Core.ToontownCorporateClash.Actions.Keyboard;
+using TTMouseclickSimulator.Core.ToontownCorporateClash.Actions.Speedchat;
 
 namespace TTMouseclickSimulator.Project
 {

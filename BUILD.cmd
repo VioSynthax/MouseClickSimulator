@@ -1,6 +1,6 @@
 @echo off
 
-REM This build script allows you to build the TTR Mouse Click Simulator.
+REM This build script allows you to build the TTCC Mouse Click Simulator.
 REM For information about prerequisites, see the Wiki page at
 REM https://github.com/TTExtensions/MouseClickSimulator/wiki/Running-the-Simulator
 
@@ -11,7 +11,7 @@ REM E.g. if the user right-clicks on the script and selects "Run as Administrato
 REM the working directory would be the windows\system32 dir.
 cd /d "%~dp0"
 
-echo.Building the TTR Mouse Click Simulator...
+echo.Building the TTCC Mouse Click Simulator...
 echo.
 REM MSBuild is always installed in the 32-Bit program files folder
 if "!ProgramFiles(x86)!"=="" (
