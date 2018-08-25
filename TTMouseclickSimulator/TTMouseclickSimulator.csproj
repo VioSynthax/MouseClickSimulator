@@ -69,7 +69,7 @@
     <Compile Include="Core\Actions\AbstractAction.cs" />
     <Compile Include="Core\Actions\AbstractActionContainer.cs" />
     <Compile Include="Core\Actions\IActionContainer.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Gardening\PlantFlowerAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Gardening\PlantFlowerAction.cs" />
     <Compile Include="Project\SimulatorProject.cs" />
     <Compile Include="Utils\TaskDialog.cs" />
     <Page Include="MainWindow.xaml">
@@ -91,20 +91,20 @@
     <Compile Include="Core\Environment\IInteractionProvider.cs" />
     <Compile Include="Core\Simulator.cs" />
     <Compile Include="Core\SimulatorConfiguration.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\DoodleInteraction\DoodlePanelAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Fishing\AbstractFishingRodAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Fishing\AutomaticFishingAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Fishing\FishingSpotData.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Fishing\StraightFishingAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Keyboard\WriteTextAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\MouseHelpers.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Fishing\QuitFishingAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Fishing\SellFishAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Keyboard\PressKeyAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\PauseAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Actions\Speedchat\SpeedchatAction.cs" />
-    <Compile Include="Core\ToontownRewritten\Environment\TTRWindowsEnvironment.cs" />
-    <Compile Include="Core\ToontownRewritten\TTRScaleExtensions.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\DoodleInteraction\DoodlePanelAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Fishing\AbstractFishingRodAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Fishing\AutomaticFishingAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Fishing\FishingSpotData.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Fishing\StraightFishingAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Keyboard\WriteTextAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\MouseHelpers.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Fishing\QuitFishingAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Fishing\SellFishAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Keyboard\PressKeyAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\PauseAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Actions\Speedchat\SpeedchatAction.cs" />
+    <Compile Include="Core\ToontownCorporateClash\Environment\TTCCWindowsEnvironment.cs" />
+    <Compile Include="Core\ToontownCorporateClash\TTCCScaleExtensions.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>

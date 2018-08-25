@@ -12,7 +12,7 @@ using System.Windows.Media;
 using TTMouseclickSimulator.Core;
 using TTMouseclickSimulator.Core.Actions;
 using TTMouseclickSimulator.Core.Environment;
-using TTMouseclickSimulator.Core.ToontownRewritten.Environment;
+using TTMouseclickSimulator.Core.ToontownCorporateClash.Environment;
 using TTMouseclickSimulator.Project;
 using TTMouseclickSimulator.Utils;
 
@@ -20,7 +20,7 @@ namespace TTMouseclickSimulator
 {
     public partial class MainWindow : Window
     {
-        private const string AppName = "TTR Mouse Click Simulator";
+        private const string AppName = "TTCC Mouse Click Simulator";
 
         private const string actionTitleMainAction = "Main Action";
 
@@ -105,7 +105,7 @@ namespace TTMouseclickSimulator
             {
                 try
                 {
-                    var environment = TTRWindowsEnvironment.Instance;
+                    var environment = TTCCWindowsEnvironment.Instance;
 
                     var sim = this.simulator = new Simulator(this.currentQuickAction != null ? this.currentQuickAction.Action :
                         this.project.Configuration.MainAction, environment);
